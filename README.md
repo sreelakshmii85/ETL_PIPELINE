@@ -42,3 +42,6 @@ Apache Kafka: For real-time data streaming and ingestion.
 Apache Spark: For distributed data processing and analysis.
 MongoDB Atlas: For storing processed data in a cloud-hosted MongoDB database.
 
+Environment File:
+The project includes MongoDB Cloud configuration details in the environment file for seamless integration.
+
